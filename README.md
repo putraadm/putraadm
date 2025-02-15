@@ -1,4 +1,7 @@
-## Hi there 👋
+## Halo semua! 👋  
+
+Perkenalkan nama saya **Putra Adimulya Wali Zhafran**.<br>
+Saya seorang **Mahasiswa** di Polinema.<br>
 
 <!--
 **putraadm/putraadm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
